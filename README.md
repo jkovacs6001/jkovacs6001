@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+⚡ Fun fact: I've been working as an engineer, both in software and hardware capacities, for almost 13 years, but I went to college to be a musician after high school.
+
 <!--
 **jkovacs6001/jkovacs6001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
